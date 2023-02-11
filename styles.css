@@ -62,7 +62,7 @@ body {
 }
 
 .container li {
-	margin: 4px 0 4px 0;
+	margin: 5px 0 5px 0;
 }
 
 
@@ -104,8 +104,8 @@ body {
 		
 
 	}
-	.header h1 {
+	.container li {
+	margin: 10px 0 10px 0;
+}
 
-		
-	}
 }
