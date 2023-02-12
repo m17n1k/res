@@ -45,6 +45,7 @@ body {
 	height: 250px;
 	width: 400px;
     border-radius: 3%;
+
 }
 
 .container > h3 {
@@ -95,6 +96,10 @@ body {
 }
 
 
+.syllabus {
+	order: -1;
+}
+
 @media (max-width:  500px) {
 	.header {
 		height: 200px;
@@ -109,3 +114,4 @@ body {
 }
 
 }
+
