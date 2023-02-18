@@ -22,11 +22,11 @@
 			    	<h3>DE</h3>
 			    	<h5>PDFs</h5>
 			    	<ul>
-			    		<li><a href="https://raw.githubusercontent.com/m17n1k/resources/main/digital-electronics/digital-fund.pdf">digital fundamentals</a>
+			    		<li><a href="https://github.com/depressed-shashi/resources/raw/main/digital-electronics/Thomas%20L.%20Floyd%20-%20Digital%20Fundamentals-Prentice%20Hall%20(2014).pdf">digital fundamentals</a>
 			    		</li>
-			    		<!-- <li>
+			    		<li>
 			    			<a href="https://github.com/m17n1k/resources/blob/main/digital-electronics">digital principles and applications</a>
-			    		</li> -->
+			    		</li>
 			    	</ul>
 
 			    </div>
@@ -35,9 +35,9 @@
 			    	<h3>CF and PC</h3>
 			    	<h5>PDFs</h5>
 			    	<ul>
-			    		<li><a href="https://raw.githubusercontent.com/m17n1k/resources/main/cfandpc/BRAM.pdf">B RAM Computer Fundamentals</a></li>
+			    		<li><a href="https://github.com/depressed-shashi/resources/raw/main/cfandpc/B-Ram-comp_fundamentals.pdf">B RAM Computer Fundamentals</a></li>
 			    		<li>
-			    			<a href="https://raw.githubusercontent.com/m17n1k/resources/main/cfandpc/comp-fund.pdf">Comp Fundamentals-Priti Sinha</a>
+			    			<a href="https://github.com/depressed-shashi/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf">Comp Fundamentals-Priti Sinha</a>
 			    		</li>
 			    	</ul>
 			    </div>
@@ -47,7 +47,7 @@
 			    	<h5>PDFs</h5>
 			    	<ul>
 			    		<li>
-			    			<a href="http://62.182.86.140/main/2511000/8b38eb73bb636a845abc9e4921ccd774/E.%20Balagurusamy%20-%20Programming%20in%20ANSI%20C-McGraw%20Hill%20Education%20%28India%29%20%282016%29.pdf">Programming In C</a>
+			    			<a href="https://github.com/depressed-shashi/resources/raw/main/cprogramming/E%20Balagurusamy%20-%20Programming%20in%20ANSI%20C-McGraw%20Hill%20Education.pdf">Programming In C</a>
 			    		</li>
 			    	</ul>
 			    </div>
@@ -91,7 +91,7 @@
 			    	<h5>PDFs</h5>
 			    	<ul>
 			    		<li>
-			    			<a href="https://raw.githubusercontent.com/m17n1k/resources/main/discrete-mathematics/discrete-maths.pdf">Discrete Maths and its applications</a>
+			    			<a href="https://github.com/depressed-shashi/resources/raw/main/discrete-mathematics/Kenneth%20H.%20Rosen%20-%20Discrete%20mathematics%20and%20its%20applications%20(2013%2C%20McGraw-Hill)%20-%20libgen.li.pdf">Discrete Maths and its applications</a>
 			    		</li>
 			    	</ul>
 			    </div>
@@ -101,7 +101,7 @@
 			    	<h5></h5>
 			    	<ul>
 			    		<li>
-			    			<a href="https://raw.githubusercontent.com/m17n1k/resources/main/syllabus/cs-syllabus.pdf">CS</a>
+			    			<a href="https://github.com/m17n1k/resources/raw/main/syllabus/BCABSc-Comp-ScienceComp-ApplnIT.pdf">CS</a>
 			    		</li>
 			    		<li>
 			    			<a href="https://github.com/m17n1k/resources/raw/main/syllabus/maths-syllabus.pdf">Maths</a>
@@ -116,7 +116,6 @@
 
 
 
-<!-- container preset below -->
 
 
 
