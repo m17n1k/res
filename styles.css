@@ -9,7 +9,7 @@ body {
 	
 }
 
-.page, body {
+.page, body{
 	height: 100vh;
 	background: #E6E8EF;
 }
@@ -100,6 +100,18 @@ body {
 	order: -1;
 }
 
+.sem {
+	text-align: center;
+	margin: 25px auto;
+	border: 2px solid mintcream;
+	border-radius: 15%;
+	width: 200px;
+
+}
+
+.sem > h2 {
+	margin:  4px
+}
 @media (max-width:  500px) {
 	.header {
 		height: 200px;
